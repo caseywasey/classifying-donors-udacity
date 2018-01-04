@@ -11,5 +11,5 @@
   + "Not useful if you are not using Python or looking for a regression type machine learning solution."
   
 + **Files**
-  +*finding_donors.html*: An html report for the classifying donors project
-  +*finding_donors.ipynb*: A Jupyter notebook for the classifying donors project
+  + *finding_donors.html*: An html report for the classifying donors project
+  + *finding_donors.ipynb*: A Jupyter notebook for the classifying donors project
